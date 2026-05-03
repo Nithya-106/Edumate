@@ -1,0 +1,27 @@
+.main {
+    background: linear-gradient(to right, #e0f7fa, #ffffff);
+    color: #336;
+    font-family: 'Segoe UI', sans-serif;
+}
+.centered {
+    max-width: 700px;
+    margin: auto;
+    background: pink;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+h1, h2, h3 {
+    color: #0077b;
+    text-align: center;
+}
+.chat-bubble {
+    background-color: #f1f1f1;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.user-msg {
+    background-color: #cce5ff;
+    text-align: right;
+}

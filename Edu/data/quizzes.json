@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "India",
+        "questions": [
+            {
+                "question": "National bird?",
+                "options": [
+                    "parrot",
+                    "owl",
+                    "peacock",
+                    "crow"
+                ],
+                "answer": "peacock"
+            }
+        ]
+    }
+]
